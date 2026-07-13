@@ -24,6 +24,3 @@
 ## Οδηγίες Χρήσης
 Η εκτέλεση γίνεται από το τερματικό με την εξής δομή:
 `python register.py <method> <start_val> <target_val> <output_file>`
-
-**Παράδειγμα:**
-`python register.py astar 5 18 solution.txt`
